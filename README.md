@@ -3,7 +3,7 @@
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-![Instacrawl](https://cdn.vir.vn/images/Instacrawl.png)
+![Instacrawl](https://i.imgur.com/oVMShPT.png)
 
 Download all images from public Instagram account
 
@@ -18,7 +18,7 @@ Download all images from public Instagram account
 Change settings in `config.py`
 
 ## Installation
-> git clone https://github.com/QuynhVir/Instacrawl.git  
+> git clone https://github.com/truongsofm/Instacrawl.git  
 > cd Instacrawl  
 > python3 -m pip install -r requirements.txt  
 > python3 main.py
